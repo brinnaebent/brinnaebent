@@ -1,4 +1,9 @@
+
+<img src="https://user-images.githubusercontent.com/43549914/89065292-6340a900-d339-11ea-9879-42985b082c2a.png" alt="drawing" width="200"/> 
+
 # Brinnae Bent | [@RunsData](runsdata.org)
+
+
 
 I am a data scientist training machines to learn digital biomarkers from sensors. I am finishing my doctoral thesis on developing digital biomarkers of prediabetes in the Big Ideas Lab at Duke University. 
 
