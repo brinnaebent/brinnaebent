@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/43549914/89065292-6340a900-d339-11ea-9879-42985b082c2a.png" alt="drawing" width="200"/> 
 
-# Brinnae Bent | [@RunsData](runsdata.org)
+# Brinnae Bent | [@RunsData](https://runsdata.org)
 
 
 
