@@ -5,7 +5,7 @@
 
 
 
-I am a data scientist training machines to learn digital biomarkers from sensors. I am finishing my doctoral thesis on developing digital biomarkers of glycemic health in the Big Ideas Lab at Duke University in Spring 2021.
+I am a digital health data scientist and I recently defended my PhD on discovering digital biomarkers of glycemic health from wearable sensors. I am an incoming data scientist at [Edge Analytics](https://edgeanalytics.io)
 
 I am currently the lead software developer at the [Digital Biomarker Discovery Pipeline (DBDP)](https://dbdp.org/), an open source software platform for developing digital biomarkers from mHealth and wearables data. 
 
