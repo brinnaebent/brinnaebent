@@ -5,7 +5,7 @@
 
 
 
-I am a digital health data scientist and I solve problems as a data scientist at [Edge Analytics](https://edgeanalytics.io). I recently defended my PhD on discovering digital biomarkers of glycemic health from wearable sensors. 
+I am a digital health data scientist and I solve problems as a data scientist at [Edge Analytics](https://edgeanalytics.io). 
 
 I am currently the lead software developer at the [Digital Biomarker Discovery Pipeline (DBDP)](https://dbdp.org/), an open source software platform for developing digital biomarkers from mHealth and wearables data. 
 
