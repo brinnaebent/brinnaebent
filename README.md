@@ -1,14 +1,7 @@
-
-<img src="https://user-images.githubusercontent.com/43549914/89065292-6340a900-d339-11ea-9879-42985b082c2a.png" alt="drawing" width="200"/> 
-
 # Brinnae Bent | [@RunsData](https://runsdata.org)
 
+I am currently an adjunct faculty member in Artificial Intelligence at Duke University and an AI/ML researcher.
 
+As a leader in bridging the gap between research and industry in machine learning, I have led projects and developed algorithms for the largest companies in the world. More importantly, I have built algorithms that have meaningful impacts - from helping people walk to noninvasively monitoring glucose.
 
-I am a digital health data scientist and I solve problems as a data scientist at [Edge Analytics](https://edgeanalytics.io). 
-
-I am currently the lead software developer at the [Digital Biomarker Discovery Pipeline (DBDP)](https://dbdp.org/), an open source software platform for developing digital biomarkers from mHealth and wearables data. 
-
-I make open source code for digital medicine, like my Python packages that enable data analysis and feature engineering of wearable sensors: [cgmquantify](https://github.com/brinnaebent/cgmquantify) and [wearablevar](https://github.com/brinnaebent/wearablevar). I also [blog](https://medium.com/@RunsData) about tools for data science and machine learning.
-
-Connect with me on Twitter [@RunsData](https://twitter.com/RunsData) or at runsdata@gmail.com!
+I am passionate about open source software, having founded the [Digital Biomarker Discovery Pipeline (DBDP)](https://dbdp.org) during my PhD.
